@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="ButtonTests">
+        <State />
+      </entry>
+      <entry key="GridListTests">
+        <State />
+      </entry>
+      <entry key="Tests in 'com.example.dogglers'">
+        <State />
+      </entry>
+      <entry key="VerticalListTests">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="grid_list_content_at_first_position()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
